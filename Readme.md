@@ -2,5 +2,6 @@
 
 ## introdução 
 
-com criar um repositorio no git
+Como criar um repositório no git
   
+  Filipe
